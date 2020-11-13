@@ -1,6 +1,5 @@
 # Facebook fanpage crawler
-No api needed
-use Requests module (similar to selenium)
+use Requests module
 
 # Execution order：
 1. FB_Posts.py
