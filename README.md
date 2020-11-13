@@ -9,5 +9,7 @@ use Requests module (similar to selenium but faster)
 (Must be executed before execute .py below)
 
 FB_Img.py
+
 FB_Comment.py
+
 FB_Comment_Analysize.py
