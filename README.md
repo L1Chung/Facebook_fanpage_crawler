@@ -1,6 +1,6 @@
 # Facebook fanpage crawler
 No api needed
-use Requests module (similar to selenium but faster)
+use Requests module (similar to selenium)
 
 # Execution order：
 1. FB_Posts.py
@@ -13,3 +13,9 @@ FB_Img.py
 FB_Comment.py
 
 FB_Comment_Analysize.py
+
+# Example:
+
+![image](https://github.com/L1Chung/Facebook_fanpage_crawler/blob/main/example.jpg)
+
+![image](https://github.com/L1Chung/Facebook_fanpage_crawler/blob/main/example2.jpg)
